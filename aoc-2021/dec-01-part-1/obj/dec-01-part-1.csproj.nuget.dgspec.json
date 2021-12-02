@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Source\\Repos\\aoc\\aoc-2021\\dec-01-part-1\\dec-01-part-1.csproj": {}
+    "C:\\source\\repos\\aoc\\aoc-2021\\dec-01-part-1\\dec-01-part-1.csproj": {}
   },
   "projects": {
-    "C:\\Source\\Repos\\aoc\\aoc-2021\\dec-01-part-1\\dec-01-part-1.csproj": {
+    "C:\\source\\repos\\aoc\\aoc-2021\\dec-01-part-1\\dec-01-part-1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Source\\Repos\\aoc\\aoc-2021\\dec-01-part-1\\dec-01-part-1.csproj",
+        "projectUniqueName": "C:\\source\\repos\\aoc\\aoc-2021\\dec-01-part-1\\dec-01-part-1.csproj",
         "projectName": "dec-01-part-1",
-        "projectPath": "C:\\Source\\Repos\\aoc\\aoc-2021\\dec-01-part-1\\dec-01-part-1.csproj",
+        "projectPath": "C:\\source\\repos\\aoc\\aoc-2021\\dec-01-part-1\\dec-01-part-1.csproj",
         "packagesPath": "C:\\Users\\micro\\.nuget\\packages\\",
-        "outputPath": "C:\\Source\\Repos\\aoc\\aoc-2021\\dec-01-part-1\\obj\\",
+        "outputPath": "C:\\source\\repos\\aoc\\aoc-2021\\dec-01-part-1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\micro\\AppData\\Roaming\\NuGet\\NuGet.Config",
