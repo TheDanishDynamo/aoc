@@ -1,1 +1,1 @@
-[2021](aoc-2021\README.md)
+[2021](https://github.com/TheDanishDynamo/aoc/blob/b3f64952d302391b20c5683d1d84477471b41974/aoc-2021/README.md)
