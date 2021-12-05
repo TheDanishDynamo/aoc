@@ -23,6 +23,8 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "dec-02-part-1", "aoc-2021\d
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "dec-02-part-2", "aoc-2021\dec-02-part-2\dec-02-part-2.pyproj", "{8A2389B0-554D-4FCF-8CF0-4F5FF9B5792A}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "dec-03-part-1", "aoc-2021\dec-03-part-1\dec-03-part-1.csproj", "{FBEDA7AF-F6C6-4595-8BB6-E89350F61F80}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{D2D74D4E-6117-44B4-8D46-8D4289139E72}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8A2389B0-554D-4FCF-8CF0-4F5FF9B5792A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{8A2389B0-554D-4FCF-8CF0-4F5FF9B5792A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBEDA7AF-F6C6-4595-8BB6-E89350F61F80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBEDA7AF-F6C6-4595-8BB6-E89350F61F80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBEDA7AF-F6C6-4595-8BB6-E89350F61F80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBEDA7AF-F6C6-4595-8BB6-E89350F61F80}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -55,6 +61,7 @@ Global
 		{E7F6F796-B543-4E0E-9016-10A0EFA33442} = {349F8507-FA35-42AD-A95D-993D9BF1BC61}
 		{D2D74D4E-6117-44B4-8D46-8D4289139E72} = {349F8507-FA35-42AD-A95D-993D9BF1BC61}
 		{8A2389B0-554D-4FCF-8CF0-4F5FF9B5792A} = {349F8507-FA35-42AD-A95D-993D9BF1BC61}
+		{FBEDA7AF-F6C6-4595-8BB6-E89350F61F80} = {349F8507-FA35-42AD-A95D-993D9BF1BC61}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C676059D-7346-4DC6-A136-C5A1749A7F1C}

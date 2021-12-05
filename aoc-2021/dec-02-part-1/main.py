@@ -1,7 +1,7 @@
+# https://adventofcode.com/2021/day/2
+# Part 1
 f = open("puzzle-input.txt")
-#f = open("puzzle-input-example.txt")
 instructions = f.read().splitlines()
-print(instructions)
 
 horizontal = 0
 vertical = 0
